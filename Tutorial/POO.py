@@ -144,3 +144,11 @@ if __name__ == '__main__':
 
 #Garbage Collection es parte del diseño OOP
 #TODO: Investigar sobre el garbage Collector de Python
+
+#Constructores y destructores
+#Los constructores inicializan así:
+#def __init__(self):
+#Los destructores se inicializan así:
+#def __del__(self):
+#Los destructores se llaman cuando utilizamos la función del
+#Mientras que los constructores se ejecutan en el momento en el que una instancia de una clase es creada.
