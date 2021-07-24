@@ -1,0 +1,2 @@
+Esto es un simple archivo de texto
+queremos que Python lea este archivo
